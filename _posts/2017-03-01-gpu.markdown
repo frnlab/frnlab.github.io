@@ -1,0 +1,12 @@
+---
+title: GPU Module (Experimental)
+layout: default
+modal-id: 5
+img: gpu.png
+thumbnail: gpu-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+category: Web Development
+description: Only tested with some of Intel integrated graphics card 
+
+---

@@ -1,0 +1,12 @@
+---
+title: Disk Module
+layout: default
+modal-id: 3
+img: disk.png
+thumbnail: disk-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+category: Web Development
+description: Read and write speed for connected drives
+
+---

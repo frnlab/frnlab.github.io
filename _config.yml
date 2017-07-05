@@ -1,0 +1,25 @@
+url: https://localhost
+baseurl: 
+
+# Site settings
+title: FRN Lab
+email: support@frnlab.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+social:
+  - title: twitter
+    url: http://twitter.com/frnlab
+  - title: facebook
+    url:
+  - title: bitbucket 
+    url: http://bitbucket.org/frnlab
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty

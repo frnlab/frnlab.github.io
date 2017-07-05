@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FRN Lab</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 03 Jul 2017 20:07:51 +1000</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2017 20:07:51 +1000</lastBuildDate>
+    <generator>Jekyll v3.5.0</generator>
+    
+      <item>
+        <title>CPU Module</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/2017/07/01/cpu/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/01/cpu/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Memory Module</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/web%20development/2017/06/01/memory/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/06/01/memory/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Disk Module</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 May 2017 00:00:00 +1000</pubDate>
+        <link>http://localhost:4000/web%20development/2017/05/01/disk/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/05/01/disk/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Network Module</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Apr 2017 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/web%20development/2017/04/01/network/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/04/01/network/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>GPU Module (Experimental)</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Mar 2017 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/web%20development/2017/03/01/gpu/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/03/01/gpu/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Preference</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +1100</pubDate>
+        <link>http://localhost:4000/web%20development/2017/02/01/pref/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/02/01/pref/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>

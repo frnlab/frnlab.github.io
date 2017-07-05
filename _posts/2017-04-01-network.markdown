@@ -1,0 +1,12 @@
+---
+title: Network Module
+layout: default
+modal-id: 4
+img: network.png
+thumbnail: network-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+category: Web Development
+description: Network speed status for most internal interfaces including external and internal IP address
+
+---

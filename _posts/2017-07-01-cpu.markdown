@@ -1,0 +1,10 @@
+---
+title: CPU Module
+layout: default
+modal-id: 1
+img: cpu.png
+thumbnail: cpu-thumbnail.png
+alt: image-alt
+description: History hart with per logical core usage
+
+---

@@ -1,0 +1,12 @@
+---
+title: Preference
+layout: default
+modal-id: 6
+img: pref.png
+thumbnail: pref-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+category: Web Development
+description: Each indicator can customize its own color and width. 
+
+---
