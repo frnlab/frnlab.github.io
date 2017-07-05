@@ -1,10 +1,10 @@
-url: https://localhost
+url: https://www.frnlab.com
 baseurl: 
 
 # Site settings
 title: FRN Lab
 email: support@frnlab.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "lightweight system monitoring utility for mac os x. system indicator on mac menu bar"
 
 
 social:
