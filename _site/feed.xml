@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FRN Lab</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>lightweight system monitoring utility for mac os x. system indicator on mac menu bar</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Jul 2017 11:49:23 +1000</pubDate>
-    <lastBuildDate>Wed, 05 Jul 2017 11:49:23 +1000</lastBuildDate>
-    <generator>Jekyll v3.5.0</generator>
+    <pubDate>Fri, 26 Oct 2018 19:36:45 +1100</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2018 19:36:45 +1100</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>CPU Module</title>
